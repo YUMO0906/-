@@ -1,0 +1,6 @@
+運行前要先開cmd裝模組
+pip install pandas
+pip install mplfinance
+pip install matplotlib
+pip install Pillow
+pip install twstock
