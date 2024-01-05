@@ -1,8 +1,0 @@
-忘記放模組安裝代碼
-運行前要先開cmd裝模組
-一條一條輸入安裝
-pip install pandas
-pip install mplfinance
-pip install matplotlib
-pip install Pillow
-pip install twstock
